@@ -1,6 +1,6 @@
 # Physical Quantities Converter
 * A simple and intuitive web application to convert between different physical units like length, mass, time, temperature, angle, area, and volume.
-**Overview**
+# Overview
 * This project simplifies the task of converting between units in different physical domains. It's built as a front-end application with an intuitive layout, supporting multiple categories of measurements and instant conversion updates.
 # Tech Stack
 **Frontend**
