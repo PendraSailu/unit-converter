@@ -9,11 +9,7 @@
 * JavaScript
 # Future Enhancements
 * Add keyboard navigation and accessibility features
-
 * Add support for user-defined units
-
 * Integrate with external APIs for live scientific data
-
 * Allow unit customization and favorite conversions
-
 * Add multilingual support
